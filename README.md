@@ -1,4 +1,2 @@
 # testproj1
-helloo
-
-wassuppp
+hello world
